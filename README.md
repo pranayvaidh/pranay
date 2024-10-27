@@ -1,2 +1,2 @@
 # pranay
-this is my fir git repository
+this is my first git repository
